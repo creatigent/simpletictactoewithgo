@@ -1,6 +1,6 @@
 Tic-Tac-Toe Puzzle
 
-title: Pre-Test Example - Tic-Tac-Toe Puzzle
+Title: Pre-Test Example - Tic-Tac-Toe Puzzle
 description: Write a tic-tac-toe game for two playersdescription: Write a tic-tac-toe game for two players
 Pre-Test Example - Tic-Tac-Toe PuzzlePre-Test Example - Tic-Tac-Toe Puzzle
 Tips For SuccessTips For Success
@@ -18,28 +18,34 @@ Here is the prioritized backlog (most to least important) - be sure to write a u
 Create the BoardCreate the Board
 The board is made up three rows and three columns, totalling 9 "squares"
 The board should print to the screen in a simple format
+
 e.g.
 > tic-tac-toe
 Welcome! Here is your board:
 - , -, -  
 - , -, - 
 - , -, -
+
 2. 
 Create 2 players and make the 1st move by both playersCreate 2 players and make the 1st move by both players
 Each player should have a unique name
 The players should be able to move an unpopulated square
 Make sure to show which player is at play
+
 e.g.
 > tic-tac-toe
+
 Welcome! Here is your board:
 - , -, -  
 - , -, - 
 - , -, -
+
 Player1 (X) where would you like to move?
 > 2 2
 - , -, -  
 - , X, - 
 - , -, -
+
 Player2 (O) where would you like to move?
 > 1 1
 O , -, -  
